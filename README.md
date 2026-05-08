@@ -43,8 +43,15 @@ TANENBAUM, A. S. Sistemas Operacionais Modernos. 4. ed. São Paulo: Pearson, 201
    ```bash
    git clone https://github.com/JoaoPauloDel/simulador-pagina.git
    ```
-2. Abra a pasta do projeto no **VS Code**.
-3. Certifique-se de que os três ficheiros (`Main.java`, `Algoritmos.java`, `Interface.java`) estão localizados na mesma diretoria raiz.
+2. Abra a pasta do projeto no **Terminal** com o comando:
+   ```bash
+   cd simulador-pagina
+   ```
+3. Agora abra no **VS Code** com o comando:
+   ```bash
+   code .
+   ```
+4. Certifique-se de que os três ficheiros (`Main.java`, `Algoritmos.java`, `Interface.java`) estão localizados na mesma diretoria raiz.
 
 ### 2. Compilação e Execução (Terminal)
 Abra o terminal integrado do VS Code (`Ctrl` + `` ` ``) e execute os seguintes comandos:
