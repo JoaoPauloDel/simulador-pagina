@@ -20,7 +20,7 @@ Após submeter o simulador a sequências de teste (como a cadeia referencial `7 
 
 Abaixo encontra-se o gráfico comparativo gerado pela interface de testes demonstrando a eficiência de cada método:
 
-> 🖼️ **<img width="686" height="495" alt="image" src="https://github.com/user-attachments/assets/1a6897a6-0263-41e5-b1e2-d4eaaf64752f" />
+> 🖼️ **<img width="882" height="611" alt="{E10E967C-B244-4EB1-A108-47963DC40AEC}" src="https://github.com/user-attachments/assets/6068b371-42c3-490d-9f4b-f871ec72406f" />
 **
 ##  Conclusão
 O desenvolvimento do simulador cumpriu o seu objetivo pedagógico e técnico, ilustrando com exatidão matemática o impacto das políticas de substituição de memória. Com os resultados obtidos através da representação gráfica, consolida-se o entendimento de que algoritmos puramente temporais de chegada (como o FIFO) são subótimos, enquanto estratégias focadas no histórico recente de uso (LRU e Relógio) entregam uma relação custo-benefício excelente para arquiteturas reais de computadores.
